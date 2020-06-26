@@ -1,21 +1,28 @@
-[{
-		"adsId": 1,
-		"ads": "AdMob"
-	},
-	{
-		"adsId": 2,
-		"ads": "FB"
-	},
-	{
-		"adsId": 3,
-		"ads": "Vungle"
-	},
-	{
-		"adsId": 4,
-		"ads": "InMobi"
-	},
-	{
-		"adsId": 5,
-		"ads": "AdColony"
-	}
+{
+"APIName": "Ads Waterfall API",
+"DateCreated": "2020-06-25T00:00:00.000Z",
+"DateModified": "2020-06-25T00:00:00.000Z",
+"Version": "1.0.0",
+"ads": [
+{
+"waterfallAdId": 1,
+"waterfallAdName": "AdMob"
+},
+{
+"waterfallAdId": 2,
+"waterfallAdName": "FB"
+},
+{
+"waterfallAdId": 3,
+"waterfallAdName": "Vungle"
+},
+{
+"waterfallAdId": 4,
+"waterfallAdName": "InMobi"
+},
+{
+"waterfallAdId": 5,
+"waterfallAdName": "AdColony"
+}
 ]
+}
