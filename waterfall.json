@@ -3,7 +3,7 @@
 "DateCreated": "2020-06-25T00:00:00.000Z",
 "DateModified": "2020-06-25T00:00:00.000Z",
 "Version": "1.0.0",
-"adsList": [
+"waterfall": [
 {
 "waterfallAdId": 1,
 "waterfallAdName": "AdMob"
