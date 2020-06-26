@@ -1,24 +1,21 @@
-{
-[
-{
-"adsId": 1,
-"ads": "AdMob"
-},
-{
-"adsId": 2,
-"ads": "FB"
-},
-{
-"adsId": 3,
-"ads": "Vungle"
-},
-{
-"adsId": 4,
-"ads": "InMobi"
-},
-{
-"adsId": 5,
-"ads": "AdColony"
-}
+[{
+		"adsId": 1,
+		"ads": "AdMob"
+	},
+	{
+		"adsId": 2,
+		"ads": "FB"
+	},
+	{
+		"adsId": 3,
+		"ads": "Vungle"
+	},
+	{
+		"adsId": 4,
+		"ads": "InMobi"
+	},
+	{
+		"adsId": 5,
+		"ads": "AdColony"
+	}
 ]
-}
